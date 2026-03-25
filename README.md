@@ -17,8 +17,8 @@ Entender o que é Inteligência Artificial
 Aprender como usar IA para estudar melhor
 Melhorar minha forma de fazer perguntas (prompts)
 Criar um material simples para revisar depois
-📚 Curadoria de Fontes
 
+📚 Curadoria de Fontes
 Essas foram as fontes que utilizei no NotebookLM:
 
 https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_artificial
